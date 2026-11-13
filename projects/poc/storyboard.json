@@ -1,0 +1,13 @@
+{
+  "titulo": "Prova de conceito — Mauro AI Video Studio",
+  "idioma": "pt-BR",
+  "cenas": [
+    {
+      "id": 1,
+      "skill": "poc",
+      "duracao_min": 5,
+      "narracao": "Bem-vindo ao Mauro AI Video Studio. Este vídeo foi criado só com código, no celular, e saiu em dois formatos ao mesmo tempo.",
+      "params": { "rotulo": "Faturamento do mês", "de": 0, "ate": 1250000, "moeda": "BRL" }
+    }
+  ]
+}

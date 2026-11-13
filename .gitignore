@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+# saídas pesadas de render (vão como artefato, não no Git)
+projects/*/out/
+projects/*/.work/
